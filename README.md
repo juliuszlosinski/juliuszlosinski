@@ -9,3 +9,5 @@
 juliuszlosinski/juliuszlosinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Foto](https://user-images.githubusercontent.com/72278818/115552736-eb425680-a2ac-11eb-8a97-d477790c9096.jpg)
