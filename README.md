@@ -10,4 +10,4 @@ juliuszlosinski/juliuszlosinski is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![Foto](https://user-images.githubusercontent.com/72278818/115552736-eb425680-a2ac-11eb-8a97-d477790c9096.jpg)
+![LittleBreakout](https://user-images.githubusercontent.com/72278818/115592890-1ab88980-a2d4-11eb-98a0-8a35fa3a16a2.png)
