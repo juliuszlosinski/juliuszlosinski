@@ -1,3 +1,4 @@
+![Game_Gif](https://user-images.githubusercontent.com/72278818/115865849-2c677180-a439-11eb-9f78-c4d5cb22659f.gif)
 - 👋 Hi, I’m **@juliuszlosinski**
 - 👀 I’m interested in programming C/C++/Java.
 - 🌱 I’m currently learning C++ and developing a game engine.
