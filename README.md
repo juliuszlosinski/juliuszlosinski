@@ -1,4 +1,3 @@
-![Game_Gif](https://user-images.githubusercontent.com/72278818/115865849-2c677180-a439-11eb-9f78-c4d5cb22659f.gif)
 - 👋 Hi, I’m **@juliuszlosinski**
 - 👀 I’m interested in programming C/C++/Java.
 - 🌱 I’m currently learning C++ and developing a game engine.
@@ -11,4 +10,5 @@ juliuszlosinski/juliuszlosinski is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![LittleBreakout](https://user-images.githubusercontent.com/72278818/115592890-1ab88980-a2d4-11eb-98a0-8a35fa3a16a2.png)
+![Game_Gif](https://user-images.githubusercontent.com/72278818/115866071-781a1b00-a439-11eb-8aee-2099e25669b2.gif)
+
