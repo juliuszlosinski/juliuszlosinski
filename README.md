@@ -10,8 +10,8 @@ juliuszlosinski/juliuszlosinski is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">
-  ![Game_Gif](https://user-images.githubusercontent.com/72278818/115866071-781a1b00-a439-11eb-8aee-2099e25669b2.gif)
-</p>
+  
+![Game_Gif](https://user-images.githubusercontent.com/72278818/115866071-781a1b00-a439-11eb-8aee-2099e25669b2.gif)
+
 
 
