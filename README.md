@@ -10,6 +10,8 @@ juliuszlosinski/juliuszlosinski is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
   
+Gra "Bobi" :
+
 ![game_gif](https://user-images.githubusercontent.com/72278818/117564492-91170300-b0ac-11eb-87b7-3190d53bd0b7.gif)
 
 
