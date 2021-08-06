@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@juliuszlosinski**
+#👋 Hi, I’m **@juliuszlosinski**
 - 👀 I’m interested in programming C/C++/Java.
 - 🌱 I’m currently learning C++ and developing a game engine.
 - 💞️ I'm looking to collaborate with other game developers.
