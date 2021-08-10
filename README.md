@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   
 # Game "Bobi" written in Java and by using LibGDX:
 
-![game_gif](https://user-images.githubusercontent.com/72278818/117564492-91170300-b0ac-11eb-87b7-3190d53bd0b7.gif)
+![menu_gif](https://user-images.githubusercontent.com/72278818/128898694-fe20b988-dfea-4660-993e-04f006e516de.gif)
 ![game_gif2](https://user-images.githubusercontent.com/72278818/117565341-ebb25e00-b0b0-11eb-9f03-3ed747659e41.gif)
 
 
