@@ -19,3 +19,7 @@ You can click the Preview link to take a look at your changes.
 **Download: https://github.com/juliuszlosinski/Game_Bobi_LibGDX_Android/raw/main/Bobi.apk**
 
 # Currently developing project: Game Engine in C++
+
+![Moving_Around_Camera](https://user-images.githubusercontent.com/72278818/130354188-0449bcf2-0c8e-4b71-9f4a-33f7c9f119ef.gif)
+
+Repository: 
