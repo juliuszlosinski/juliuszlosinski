@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 # Currently developing project: Game Engine in C++
 
-![lights](https://user-images.githubusercontent.com/72278818/133623431-84b694a0-b757-48f2-a236-8b33df1ab022.gif)
+<!-- ![lights](https://user-images.githubusercontent.com/72278818/133623431-84b694a0-b757-48f2-a236-8b33df1ab022.gif) -->
 
 ![lights02](https://user-images.githubusercontent.com/72278818/133623002-b2526d85-fd64-486c-ba51-26289bbaf970.gif)
 
