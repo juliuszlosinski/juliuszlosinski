@@ -24,4 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 ![lights02](https://user-images.githubusercontent.com/72278818/133623002-b2526d85-fd64-486c-ba51-26289bbaf970.gif)
 
+![object](https://user-images.githubusercontent.com/72278818/133926439-1d0df19f-92a7-4ab2-a919-e34a11bf549f.gif)
+
 **Repository: https://github.com/juliuszlosinski/GameEngine-Cpp_OpenGL_PhysX**
