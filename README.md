@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
 # Currently developing project: Game Engine in C++
 
 <!-- ![lights](https://user-images.githubusercontent.com/72278818/133623431-84b694a0-b757-48f2-a236-8b33df1ab022.gif) -->
-
-![object](https://user-images.githubusercontent.com/72278818/133926439-1d0df19f-92a7-4ab2-a919-e34a11bf549f.gif)
+![direct_light](https://user-images.githubusercontent.com/72278818/134367685-5df11f65-e0e9-4a7e-bf20-4de49357bcb5.gif)
+<!--![object](https://user-images.githubusercontent.com/72278818/133926439-1d0df19f-92a7-4ab2-a919-e34a11bf549f.gif) -->
 ![lights02](https://user-images.githubusercontent.com/72278818/133623002-b2526d85-fd64-486c-ba51-26289bbaf970.gif)
 
 **Repository: https://github.com/juliuszlosinski/GameEngine-Cpp_OpenGL_PhysX**
