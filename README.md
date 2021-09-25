@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ![lights](https://user-images.githubusercontent.com/72278818/133623431-84b694a0-b757-48f2-a236-8b33df1ab022.gif) -->
 <!--![direct_light](https://user-images.githubusercontent.com/72278818/134367685-5df11f65-e0e9-4a7e-bf20-4de49357bcb5.gif) -->
 ![final02](https://user-images.githubusercontent.com/72278818/134786304-ca061d6b-c2e7-4e04-be93-5a33ff5beba2.gif)
+![final03](https://user-images.githubusercontent.com/72278818/134786690-d1a96b7f-f338-4b5a-b5eb-feaf60c3164e.gif)
 <!--![object](https://user-images.githubusercontent.com/72278818/133926439-1d0df19f-92a7-4ab2-a919-e34a11bf549f.gif) -->
 ![lights02](https://user-images.githubusercontent.com/72278818/133623002-b2526d85-fd64-486c-ba51-26289bbaf970.gif)
 
