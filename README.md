@@ -1,8 +1,8 @@
 # About me:
 - 👋 Hi, I’m **@juliuszlosinski**
-- 👀 I’m interested in programming C/C++/Java.
+- 👀 I’m interested in programming C/ C# (ASP.NET) /C++/Java (JS, JSP, JSF, JPA, Spring Boot)/ PHP (Laravel).
 - 🌱 I’m currently learning C++ and developing a game engine.
-- 💞️ I'm looking to collaborate with other game developers.
+- 💞️ I'm looking to collaborate with other game developers or WebApp devs (Spring Boot | Laravel).
 - 📫 **Email:** juliuszlosinski@wp.pl
 - ✨ **GAMES: https://drive.google.com/drive/folders/1ldd5QoCz-2TrcOtMQfe__g9-xm3U-3PX?usp=sharing**
 
