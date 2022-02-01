@@ -1,5 +1,5 @@
 # About me :
-- 👋 Hi, I’m **@juliuszlosinski**
+- 👋 Hi, I’m juliuszlosinski!
 - 👀 I’m interested in programming C/ C# (ASP.NET) /C++/Java (JS, JSP, JSF, JPA, Spring Boot)/ PHP (Laravel).
 - 🌱 I’m currently learning C++ and developing a game engine.
 - 💞️ I'm looking to collaborate with other game developers or WebApp devs (Spring Boot | Laravel).
