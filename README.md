@@ -2,9 +2,9 @@
 - 👋 Hi, I’m juliuszlosinski!
 - 👀 I’m interested in programming C/ C# (ASP.NET) /C++/Java (JS, JSP, JSF, JPA, Spring Boot)/ PHP (Laravel):
 
-**Spring Boot Applications:** github.com/juliuszlosinski/SpringBoot_Applications
+**Spring Boot Applications:** https://github.com/juliuszlosinski/SpringBoot_Applications
 
-**ASP.NET Applications:** github.com/juliuszlosinski/ASP.NET-MS_SQL-Projects
+**ASP.NET Applications:** https://github.com/juliuszlosinski/ASP.NET-MS_SQL-Projects
 
 **Laravel Applications:** https://github.com/juliuszlosinski/Laravel_Applications
 
