@@ -8,6 +8,8 @@
 
 **Laravel Applications:** https://github.com/juliuszlosinski/Laravel_Applications
 
+**REST API Spring Boot:** https://github.com/juliuszlosinski/REST_API_Spring_Boot-Projects
+
 - 🌱 I’m currently learning C++ and developing a game engine.
 - 💞️ I'm looking to collaborate with other game developers or WebApp devs (Spring Boot | Laravel).
 - 📫 **Email:** juliuszlosinski@wp.pl
