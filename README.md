@@ -4,11 +4,13 @@
 
 **Spring Boot Applications:** https://github.com/juliuszlosinski/SpringBoot_Applications
 
-**ASP.NET Applications:** https://github.com/juliuszlosinski/ASP.NET-MS_SQL-Projects
+**REST API Spring Boot:** https://github.com/juliuszlosinski/REST_API_Spring_Boot-Projects
+
+**ASP.NET (.NET Framework) Applications:** https://github.com/juliuszlosinski/ASP.NET-MS_SQL-Projects
+
+**.NET (.NET Core and .NET Framwork) Applications:** https://github.com/juliuszlosinski/.NET_Projects
 
 **Laravel Applications:** https://github.com/juliuszlosinski/Laravel_Applications
-
-**REST API Spring Boot:** https://github.com/juliuszlosinski/REST_API_Spring_Boot-Projects
 
 - 🌱 I’m currently learning C++ and developing a game engine.
 - 💞️ I'm looking to collaborate with other game developers or WebApp devs (Spring Boot | Laravel).
