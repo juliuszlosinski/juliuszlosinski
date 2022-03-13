@@ -8,7 +8,7 @@
 
 **ASP.NET (.NET Framework) Applications:** https://github.com/juliuszlosinski/ASP.NET-MS_SQL-Projects
 
-**.NET (.NET Core and .NET Framwork) Applications:** https://github.com/juliuszlosinski/.NET_Projects
+**.NET (.NET Core and .NET Framework) Applications:** https://github.com/juliuszlosinski/.NET_Projects
 
 **Laravel Applications:** https://github.com/juliuszlosinski/Laravel_Applications
 
