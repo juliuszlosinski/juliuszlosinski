@@ -12,6 +12,8 @@
 
 **Laravel Applications:** https://github.com/juliuszlosinski/Laravel_Applications
 
+**Portfolio:** https://juliuszlosinski.github.io/portfolio/
+
 - 🌱 I’m currently learning C++ and developing a game engine.
 - 💞️ I'm looking to collaborate with other game developers or WebApp devs (Spring Boot | Laravel).
 - 📫 **Email:** juliuszlosinski@wp.pl
