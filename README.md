@@ -1,5 +1,5 @@
 # About me :
-- 👋 Hi, I’m juliuszlosinski!
+- 👋 Hi, My name is Juliusz Losinski and I'm BSc. of Computer Science (Engineer) / GPU Software Developer (C/C++).
 - 🌱 I’m currently learning C++, developing a game engines, games and learning AI/ML/DL.
 - ✨ My hobbies are Games engines, computer graphics, programming languages and Deep Learning.
 - 📫 **Email:** juliuszlosinski@wp.pl
