@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 **Download: https://github.com/juliuszlosinski/Game_Bobi_LibGDX_Android/raw/main/Bobi.apk**
 
-# HectorX Game Engine written in C++ and by using OpenGL:
+# HectorX Game Engine written in C++ and OpenGL:
 
 <!-- ![lights](https://user-images.githubusercontent.com/72278818/133623431-84b694a0-b757-48f2-a236-8b33df1ab022.gif) -->
 <!--![direct_light](https://user-images.githubusercontent.com/72278818/134367685-5df11f65-e0e9-4a7e-bf20-4de49357bcb5.gif) -->
