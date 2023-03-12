@@ -1,6 +1,11 @@
 # About me :
 - 👋 Hi, I’m juliuszlosinski!
-- 👀 I’m interested in programming C/C++, **C#** (.NET), **Java** (JS, JSP, JSF, JPA, Spring Boot),  **PHP** (Laravel):
+- 🌱 I’m currently learning C++, developing a game engines, games and learning AI/ML/DL.
+- ✨ My hobbies are Games engines, computer graphics, programming languages and Deep Learning.
+- 📫 **Email:** juliuszlosinski@wp.pl
+- ✨ **GAMES: https://drive.google.com/drive/folders/1ldd5QoCz-2TrcOtMQfe__g9-xm3U-3PX?usp=sharing**
+
+**Other projects connected with Web Applications:**
 
 **Spring Boot Applications:** https://github.com/juliuszlosinski/SpringBoot_Applications
 
@@ -13,11 +18,6 @@
 **Laravel Applications:** https://github.com/juliuszlosinski/Laravel_Applications
 
 **Portfolio:** https://juliuszlosinski.github.io/portfolio/
-
-- 🌱 I’m currently learning C++ and developing a game engine.
-- 💞️ I'm looking to collaborate with other game developers or WebApp devs (Spring Boot | Laravel).
-- 📫 **Email:** juliuszlosinski@wp.pl
-- ✨ **GAMES: https://drive.google.com/drive/folders/1ldd5QoCz-2TrcOtMQfe__g9-xm3U-3PX?usp=sharing**
 
 <!---
 juliuszlosinski/juliuszlosinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
